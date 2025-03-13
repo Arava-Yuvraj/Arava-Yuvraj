@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arava-Yuvraj
-- 👀 I’m interested in Cloud and DevOps Engineering
+- 👀 I’m interested in DevOps, Cloud & Automation Engineering
 - 🌱 I’m currently learning Containerization,Docker & kubernetes
 - 📫 How to reach me yuvrajabr@gmail.com
 - 😄 Pronouns: He/HIM
